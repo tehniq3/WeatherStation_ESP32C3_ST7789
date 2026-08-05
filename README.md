@@ -11,3 +11,5 @@ links beteen ERSP32-C3 Mini and ST7789 display:
 #define TFT_DC 3
 #define TFT_RST 4
 #define TFT_BL 5
+
+[!][schematic](https://blogger.googleusercontent.com/img/a/AVvXsEhUWXnKh6sE_5pJI2t47ikn8UCcWGcYzR9JMti8xto6piQlu64lY8u-_fj-fUp2lr350-Hrbd8jzlHes7kBjBLD2D0RMA1xwwGnmXWeoFrWIseRWBifctLr-Za2aqRRTYOpyYV0r-n1lPptj0moRhZqIxLGwCbb2emGZGysqyiV3DK8YlXRZFtnJBQOY1V-=w320-h274)
