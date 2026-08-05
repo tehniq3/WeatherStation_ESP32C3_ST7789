@@ -1,7 +1,7 @@
 # WeatherStation_ESP32C3_ST7789
 based on sketch of the project found athttps://youtu.be/Boz2X6QPp44?is=msn051oobt3bZ5Pz and info from https://github.com/tehniq3/NTPclock_ESP32C3_ST7789/
 
-#Please check info from https://github.com/tehniq3/NTPclock_ESP32C3_ST7789/
+#Please check info from https://github.com/tehniq3/NTPclock_ESP32C3_ST7789/ an my article from https://nicuflorica.blogspot.com/2026/08/statie-meteo-cu-esp32-c3-mini-si-afisaj.html
 
 custom file for TFT_eSPI library: https://github.com/tehniq3/NTPclock_ESP32C3_ST7789/blob/main/User_Setup.h
 links beteen ERSP32-C3 Mini and ST7789 display: 
